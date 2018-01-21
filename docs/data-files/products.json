@@ -1,0 +1,36 @@
+[{
+   "id":"fe16c9c5-fe64-4bfd-8618-198a6178e501",
+   "name":"",
+   "description":"description",
+   "lastUpdatedTime":12445435436,
+   "sku":"68aadc39-47e6-4e04-9539-5bfaa7742925",
+   "type":"boots",
+   "price":13.5,
+   "imagePath":"",
+   "attributes":{
+      "color":"red",
+      "size":"M",
+      "manufacturer":"Nike"
+   },
+   "storeIds":[
+      "fb656190-e052-4439-b39a-987f67c654d1"
+   ]
+},
+{
+   "id":"ae16c9c5-fe64-4bfd-8618-198a6178e501",
+   "name":"",
+   "description":"description",
+   "lastUpdatedTime":12445435436,
+   "sku":"988aadc39-47e6-4e04-9539-5bfaa7742925",
+   "type":"shoes",
+   "price":12,
+   "imagePath":"",
+   "attributes":{
+      "color":"red",
+      "size":"M",
+      "manufacturer":"Adidas"
+   },
+   "storeIds":[
+      "cb656190-e052-4439-b39a-987f67c654d1"
+   ]
+}]

@@ -1,0 +1,2 @@
+1) I am using Solr as a database as it is very good as a document store and search engine.
+2) For demo purposes, I am using Solr in standalone mode but for scalability purposes we can use SolrCloud with collections and sharding.
