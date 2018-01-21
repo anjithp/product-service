@@ -2,7 +2,7 @@
 Instructions for building the  Java modules:
 
 1)Download the project to your computer
-2)Install Java 1.8 and Maven 3/.5.2
+2)Install Java 1.8 and Maven 3.5.2
 3)Goto the root folder of the project and run the command "mvn clean install"
 
 Instructions for building the  Angular UI module:
