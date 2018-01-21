@@ -1,4 +1,12 @@
 # bulletproof
+
+Modules:
+1) Core Services(Main Endpoints: ProductService, StoreService)    
+2) Inventory Service (Main Endpoints: OrderFullFillmentService, StockReplenishmentService)  
+3) Data Loading Service   
+4) UI  
+
+
 Instructions for building the  Java modules:
 
 1)Download the project to your computer.      
@@ -26,6 +34,7 @@ Starting UI:
 
 1) UI can be started using Angular development server. Go to UI directory and run the command "ng serve" and access the UI on "http://localhost:4200".  
 2) Alternatively You can build the UI module using the command "ng build --prod --aot" and deploy resources to any web server.  
+
 
 
 
